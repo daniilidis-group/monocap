@@ -6,3 +6,5 @@ MonoCap: Monocular Human Motion Capture using a CNN Coupled with a Geometric Pri
 X. Zhou, M. Zhu, G. Pavlakos, S. Leonardos, K. Derpanis, K. Daniilidis.  
 Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI).
 
+Release soon. 
+
